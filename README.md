@@ -1,32 +1,30 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:36BCF7,100:6C63FF&height=200&section=header&text=Arjun%20Jayakrishnan&fontSize=45&fontColor=ffffff&animation=scaleIn" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Arjun Jayakrishnan</h1>
-
-<h3 align="center">
-  Computer Science Engineer | AI/ML Enthusiast
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Developer;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 ### 🚀 About Me
-<img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
-- 🎓 Engineering student passionate about **AI/ML, Web Apps, and Innovative Tech**
-- 🛠️ Skilled in **Python, Java, C++, React, Flask, MySQL, HTML/CSS, JavaScript**
-- 🌱 Exploring: **PWA, Cloud Deployment, Real-Time Computer Vision, and ML Interpretability**
-- ⚡ Motto: *"Building tech that solves real-world problems."*
+<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
+  <img alt="Coding GIF" width="250" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+</div>
+
+🎓 Engineering student passionate about **AI/ML, Web Apps, and Innovative Tech**  
+🛠️ Skilled in **Python, Java, C++, React, Flask, MySQL, HTML/CSS, JavaScript**  
+🌱 Exploring: **PWA, Cloud Deployment, Real-Time Computer Vision, and ML Interpretability**  
+⚡ Motto: *"Building tech that solves real-world problems."*
+
+
 
 ---
 
 ### 🧑‍💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,flask,mysql,html,css,js,git,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,flask,mysql,html,css,js,git,github" />
 </p>
 
 ---
@@ -62,7 +60,3 @@
 
 ---
 
-### ✨ Fun Animation
-<p align="center">
-  <img src="https://c.tenor.com/4n0C7zGfCmgAAAAC/programming-coding.gif" width="400" />
-</p>
