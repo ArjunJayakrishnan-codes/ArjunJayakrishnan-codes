@@ -7,9 +7,6 @@
 
 ### 🚀 About Me
 
-<div style="float: right; margin-left: 70px; margin-bottom: 10px;">
-  <img alt="Coding GIF" width="250" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
-</div>
 
 -🎓 Engineering student passionate about **AI/ML, Web Apps, and Innovative Tech**  
 -🛠️ Skilled in **Python, Java, C, C++, Flask, MySQL, HTML/CSS, JavaScript**  
