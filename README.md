@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=🚀%20Arjun%20Jayakrishnan%20|%20AI/ML%20Enthusiast%20|%20Full-Stack%20Developer%20🛠️&fontColor=ffffff&color=0:000000,100:434343&animation=fadeIn&type=rect&height=120&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Arjun%20Jayakrishnan&fontAlign=50&fontAlignY=40&color=0:ff00ff,100:00ffff&fontColor=ffffff&animation=twinkling" />
 </p>
 <h1 align="center">Hi 👋, I'm Arjun Jayakrishnan</h1>
 <h3 align="center">Computer Science Engineer | AI/ML Enthusiast </h3>
