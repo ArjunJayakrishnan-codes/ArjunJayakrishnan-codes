@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=200&section=header&text=Arjun%20Jayakrishnan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h1 align="center">Hi 👋, I'm Arjun Jayakrishnan</h1>
 <h3 align="center">Computer Science Engineer | AI/ML Enthusiast </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Full+Stack+Developer;Always+learning+new+tech" />
+</p>
 
 ---
 
 ### 🚀 About Me
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
+
 - 🎓 Engineering student passionate about **AI/ML, Web Apps**
 - 🛠️ Skilled in **Python, Java, C++, React, Flask, MySQL**
 - 🌱 Exploring: **PWA, Cloud Deployment, and Real-Time Computer Vision**
