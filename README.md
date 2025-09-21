@@ -5,19 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Developer;Always+Learning+New+Tech" />
 </p>
 
----
-
 ### 🚀 About Me
 
-<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
+<div style="float: right; margin-left: 70px; margin-bottom: 10px;">
   <img alt="Coding GIF" width="250" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
 </div>
 
-🎓 Engineering student passionate about **AI/ML, Web Apps, and Innovative Tech**  
-🛠️ Skilled in **Python, Java, C++, React, Flask, MySQL, HTML/CSS, JavaScript**  
-🌱 Exploring: **PWA, Cloud Deployment, Real-Time Computer Vision, and ML Interpretability**  
-⚡ Motto: *"Building tech that solves real-world problems."*
-
+-🎓 Engineering student passionate about **AI/ML, Web Apps, and Innovative Tech**  
+-🛠️ Skilled in **Python, Java, C, C++, Flask, MySQL, HTML/CSS, JavaScript**  
+-🌱 Exploring: **PWA, Cloud Deployment, Real-Time Computer Vision, and ML Interpretability**  
+-⚡ Motto: *"Building tech that solves real-world problems."*
 
 
 ---
@@ -43,6 +40,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunJayakrishnan-codes&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api?username=ArjunJayakrishnan-codes&show_icons=true&theme=tokyonight&count_private=true" height="160" />
