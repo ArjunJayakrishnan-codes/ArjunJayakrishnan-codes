@@ -9,7 +9,7 @@
 
 
 -🎓 Engineering student passionate about **AI/ML, Web Apps, and Innovative Tech**  
--🛠️ Skilled in **Python, Java, C, C++, Flask, MySQL, HTML/CSS, JavaScript**  
+-🛠️ Skilled in **Python, Java, C, C++, Flask, MySQL, HTML/CSS**  
 -🌱 Exploring: **PWA, Cloud Deployment, Real-Time Computer Vision, and ML Interpretability**  
 -⚡ Motto: *"Building tech that solves real-world problems."*
 
@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,flask,mysql,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,flask,mysql,html,css,git,github" />
 </p>
 
 ---
